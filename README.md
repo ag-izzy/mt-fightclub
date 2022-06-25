@@ -1,5 +1,5 @@
 # mt-figthclub
-Simple figthclub script for QBCore
+Simple fightclub script for QBCore
 
 # Privew:
 https://streamable.com/x7zfid
