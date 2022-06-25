@@ -30,3 +30,6 @@ RegisterNetEvent('hospital:client:FigthClubRevive', function()
     end
 end)
 ```
+
+Map:
+https://forum.cfx.re/t/release-mlo-los-santos-gym/1051705
